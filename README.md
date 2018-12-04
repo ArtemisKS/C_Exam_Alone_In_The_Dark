@@ -2,7 +2,7 @@
 C Exam, some facile but interesting exercises, limited by time and norm
 
 ## Some ~~exemplary~~ coding from C_Exam of 42 school, done in a dreadful style, to be honest, but correct nonetheless
-**Here are some ~~stupid~~ _interesting_ tasks, which can be found int this rep:**
+**Here are some ~~stupid~~ _interesting_ tasks, which can be found in this rep:**
 * check_mate
 * rpn_calc
 * infin_add
